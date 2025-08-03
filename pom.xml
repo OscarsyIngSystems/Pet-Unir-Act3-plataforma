@@ -36,7 +36,7 @@
         <maven.spotbugs-plugin.version>4.8.6.6</maven.spotbugs-plugin.version>
         <maven.version>3.9.9</maven.version>
         <!-- Docker -->
-        <docker.jib-maven-plugin.version>3.4.5</docker.jib-maven-plugin.version>
+        <docker.jib-maven-plugin.version>3.4.6</docker.jib-maven-plugin.version>
         <docker.image.prefix>springcommunity</docker.image.prefix>
         <!-- SonarQube configuration -->
         <sonar.organization>spring-petclinic-rest</sonar.organization>
